@@ -1,7 +1,7 @@
-package com.bobexchen.novajava.controller;
+package com.bobexchen.novajavagithub.controller;
 
-import com.bobexchen.novajava.model.PersonInfo;
-import com.bobexchen.novajava.service.LoginService;
+import com.bobexchen.novajavagithub.model.PersonInfo;
+import com.bobexchen.novajavagithub.service.LoginService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

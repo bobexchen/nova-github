@@ -1,6 +1,6 @@
-package com.bobexchen.novajava.cache;
+package com.bobexchen.novajavagithub.cache;
 
-import com.bobexchen.novajava.model.PersonInfo;
+import com.bobexchen.novajavagithub.model.PersonInfo;
 
 import java.util.Hashtable;
 

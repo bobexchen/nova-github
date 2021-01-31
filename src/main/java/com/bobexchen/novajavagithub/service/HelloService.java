@@ -1,4 +1,4 @@
-package com.bobexchen.novajava.service;
+package com.bobexchen.novajavagithub.service;
 
 import org.springframework.stereotype.Service;
 

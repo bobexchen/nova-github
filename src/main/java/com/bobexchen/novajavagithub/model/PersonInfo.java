@@ -1,4 +1,4 @@
-package com.bobexchen.novajava.model;
+package com.bobexchen.novajavagithub.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.bobexchen.novajava;
+package com.bobexchen.novajavagithub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

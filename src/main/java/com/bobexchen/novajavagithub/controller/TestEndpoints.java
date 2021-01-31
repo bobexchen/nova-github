@@ -1,4 +1,4 @@
-package com.bobexchen.novajava.controller;
+package com.bobexchen.novajavagithub.controller;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;

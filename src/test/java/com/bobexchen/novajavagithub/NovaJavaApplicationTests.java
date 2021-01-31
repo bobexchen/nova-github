@@ -1,4 +1,4 @@
-package com.bobexchen.novajava;
+package com.bobexchen.novajavagithub;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;

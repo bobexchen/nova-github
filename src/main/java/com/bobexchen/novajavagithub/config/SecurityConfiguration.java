@@ -1,4 +1,4 @@
-package com.bobexchen.novajava.config;
+package com.bobexchen.novajavagithub.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

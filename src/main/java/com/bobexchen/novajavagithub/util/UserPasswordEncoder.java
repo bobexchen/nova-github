@@ -1,4 +1,4 @@
-package com.bobexchen.novajava.util;
+package com.bobexchen.novajavagithub.util;
 
 import org.springframework.security.crypto.password.PasswordEncoder;
 
